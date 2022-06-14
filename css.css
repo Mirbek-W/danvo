@@ -1,0 +1,59 @@
+:root{
+    --color1:#ffffff;
+    --color2:#000000;
+}
+
+
+.iop54{
+    position: relative;
+    top:125px;
+    left:240px;
+}
+.card{
+    background-color:var(--color1);
+}
+.iop1{
+    position: relative;
+    left:50%;
+    color: var(--color1);
+}
+a{
+    color: var(--color1);
+}
+.iop2{
+    color: var(--color2);
+
+}
+
+.iop4{
+    width:720px;
+    height:auto;
+}
+
+body{
+    background-color:var(--color1);
+}
+
+.button{
+    position: fixed;
+    top:600px;
+    left:60px;
+    width:60px;
+    height:60px;
+    border:1px solid #525252;
+    
+    background-color:var(--color1);
+    z-index:99999;
+
+    border-radius:50%;
+    
+}
+#im{
+    position: relative;
+    top:3px;
+    left:3px;
+}
+
+.iop67{
+    color:var(--color2);
+}
